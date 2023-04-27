@@ -1,0 +1,8 @@
+help
+filter_contains_name Adm
+print_unique_chapter
+info
+show
+remove_all_by_chapter mars1
+show
+exit
